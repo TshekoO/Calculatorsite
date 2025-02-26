@@ -18,7 +18,7 @@ Responsive design for desktop and mobile use
 
 Clone the repository:
 
-git clone https://github.com/your-username/calculator-app.git
+git clone https://github.com/TshekoO/Calculatorsite.git
 
 Navigate to the project directory:
 
